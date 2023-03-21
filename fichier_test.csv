@@ -1,4 +1,11 @@
+<<<<<<< HEAD
+id nom prenom age note
+1 Abitbol Georgers 67 16
+2 Boutboul Dolores 34 12
+3 Wayane Bruce 40 25
+=======
 id,nom,prenom,age,note
 1,Abitbol,Georges,67,16
 2,boutboul,Dolores,34,12
 3,Wayne,Bruce,40,25
+>>>>>>> c6699fc9dfb8762c01e447f09bc46207682bcf25

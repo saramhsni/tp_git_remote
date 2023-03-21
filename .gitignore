@@ -1,5 +1,13 @@
+<<<<<<< HEAD
+*.doc
+*.docx
+*.xls
+*.gif
+*.tiff
+=======
 fichier_test.doc
 fichier_test.docx
 fichier_test.xls
 fichier_test.gif
 fichier_test.tiff
+>>>>>>> c6699fc9dfb8762c01e447f09bc46207682bcf25
